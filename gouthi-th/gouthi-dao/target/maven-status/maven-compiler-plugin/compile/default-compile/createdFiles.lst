@@ -1,0 +1,4 @@
+com\gouthi\dao\UserDao.class
+com\gouthi\entity\User.class
+com\gouthi\prop\GDataSource.class
+com\gouthi\prop\DataSourceConfigProps.class

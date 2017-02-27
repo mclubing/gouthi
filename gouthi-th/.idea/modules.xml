@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gouthi-biz/gouthi-biz.iml" filepath="$PROJECT_DIR$/gouthi-biz/gouthi-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gouthi-config/gouthi-config.iml" filepath="$PROJECT_DIR$/gouthi-config/gouthi-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gouthi-dao/gouthi-dao.iml" filepath="$PROJECT_DIR$/gouthi-dao/gouthi-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gouthi-geureka/gouthi-geureka.iml" filepath="$PROJECT_DIR$/gouthi-geureka/gouthi-geureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gouthi-th.iml" filepath="$PROJECT_DIR$/gouthi-th.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gouthi-web/gouthi-web.iml" filepath="$PROJECT_DIR$/gouthi-web/gouthi-web.iml" />
+    </modules>
+  </component>
+</project>
